@@ -1,5 +1,8 @@
 # WholeGenomeAnalysis
-Whole Genome Analysis by Plink ang GCTA
+##Whole Genome Analysis by Plink ang GCTA
+##Used for Basic association testing
+
+Input file: IMMUNO chip from Alzheimer's Patients
 
 #PLINK
 
